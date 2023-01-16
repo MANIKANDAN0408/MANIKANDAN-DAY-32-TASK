@@ -1,0 +1,61 @@
+[
+    {
+        "id":1,
+        "name": "Sivakamiyin Sabadham",
+        "cover": "https://n3.sdlcdn.com/imgs/b/z/p/Sivagamiyin-Sabatham-Hardback-Tamil-SDL823478014-1-91c86.jpg",
+        "author": "Kalki Krishnamurthy",
+        "language": "Tamil",
+        "genre": "Honour,love,fellowship",
+        "release": "1944"
+    },
+
+    {
+        "id": 2,
+        "name": " Thinking, Fast and Slow",
+        "cover": "https://s3-us-west-2.amazonaws.com/tabs.web.media/a/v/avjn/avjn-square-1536.jpg",
+        "author": " Daniel Kahneman",
+        "language": "English",
+        "genre": "logical thinking,smart thinking",
+        "release": "2011"
+    },
+
+    {
+        "id": 3,
+        "name": "The Power of Your Subconscious Mind",
+        "cover": "https://www.energytherapy.biz/wp-content/uploads/2017/04/the-power-of-your-subconscious-mind-11.jpg",
+        "author": "Joseph murphy",
+        "language": "English",
+        "genre": "power of mind, understanding",
+        "release": "1963"
+    },
+
+    {
+        "id":4,
+        "name": " The Power of Positive Thinking",
+        "cover": "https://th.bing.com/th/id/OIP.Q3r3K8A39otSLtS40YZ8_QHaLb?pid=ImgDet&rs=1",
+        "author": "Norman Vincent Peale",
+        "language": "English",
+        "genre": "self help, development",
+        "release": "1952"
+    },
+
+    {
+        "id": 5,
+        "name": " Think and Grow Rich",
+        "cover": "https://th.bing.com/th/id/OIP.TLGlvEeTAK-T7TOKuPReCgHaJl?pid=ImgDet&rs=1",
+        "author": "Napoleon Hill",
+        "language": "English",
+        "genre": "Non-fiction",
+        "release": "2013"
+    },
+    
+    {
+        "id": 6,
+        "name": "Rich Dad Poor Dad ",
+        "cover": "https://cdn.lifehack.org/wp-content/uploads/2014/08/rich-dad-poor-dad-book.jpg",
+        "author": "Robert Kiyosaki",
+        "language": "English",
+        "genre": "Entrepreneurship,Economics,Investment",
+        "release": "1997"
+    }
+]

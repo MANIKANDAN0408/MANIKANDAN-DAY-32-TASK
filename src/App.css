@@ -1,0 +1,30 @@
+.books-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(299px, 1fr));
+  gap: 1rem;
+  justify-items: center;
+}
+
+body {
+  background-color: rgba(238, 231, 172, 0.61);
+}
+
+.book-cover {
+  height: 400px;
+  width: 99%;
+  object-fit: cover;
+}
+
+
+.books-container {
+  margin-top: 35px;
+  width: 299px;
+}
+
+.add-container {
+  display: flex;
+  flex-direction: column;
+  gap: 23px;
+  max-width: 298px;
+  margin: 1rem auto;
+}
